@@ -30,33 +30,33 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-subtitle: Your awesome subtitle
+title: Social Justice Diplomat  
+subtitle: Justice or all
 description: >- # this means to ignore newlines until "baseurl:"
   This is the demo site for a Jekyll theme version of
   HTML5 UP's sleek, responsive site template Prologue.
-author: Your Incredible Name
-email: your-email@example.com
+author: Emmanuel
+email: socialjusticediplomat@gmail.com
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/jekyll-theme-prologue" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://www.socialjusticediplomat.com" # the base hostname & protocol for your site
 
 # Social settings
 # Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
-twitter_url:
-facebook_url:
-googleplus_url:
-instagram_url:
-linkedin_url:
-github_url:
-pinterest_url:
-slack_url:
-dribbble_url:
+twitter_url: https://twitter.com/SJDiplomat
+facebook_url: https://www.facebook.com/SocialJusticeDiplomat
+googleplus_url: https://www.youtube.com/channel/UCJeXAfNIxDP6bbp_2ZYbO0A
+instagram_url: https://www.instagram.com/socialjusticediplomat
+linkedin_url: bit.ly/SJDlinks
+github_url: bit.ly/SJDlinks
+pinterest_url: bit.ly/SJDlinks
+slack_url: bit.ly/SJDlinks
+dribbble_url: bit.ly/SJDlinks
 
 # Google Analytics Tracking ID goes here:
-google_analytics:
+google_analytics: UA-150455062-1
 
 # The following settings are NECESSARY for the Prologue theme to run:
 theme: jekyll-theme-prologue
